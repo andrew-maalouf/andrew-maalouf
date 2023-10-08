@@ -1,10 +1,9 @@
-Hi it's me 👋
+#Hi it's me 👋
 
 I'm currently working on this 💥 
 I'm currently learning about this 💪
-I'm looking for help with this 🚼
-Ask me about anything but this ⚠
 
+##Ciao
 
 <!--
 **andrew-maalouf/andrew-maalouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
