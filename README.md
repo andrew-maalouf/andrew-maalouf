@@ -1,8 +1,8 @@
 ### Hello 👋
 
-📖 Biochemist and Chemist
-💻 M Sc in Bioinformatics and Computational Biology, University of Bern
-📫 andrew.maalouf@students.unibe.ch
+- 📖 Biochemist and Chemist
+- 💻 M Sc in Bioinformatics and Computational Biology, University of Bern
+- 📫 andrew.maalouf@students.unibe.ch
 
 <!--
 **andrew-maalouf/andrew-maalouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
